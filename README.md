@@ -17,14 +17,15 @@ Designing and simulating digital circuits with VHDL/Verilog
 Building professional website with online reservation capabilities
 
 📈 Experiences:
-Assisted clients in finding the best tech solutions at Canada Computers, honing my customer service and tech expertise.
+Assisted clients in finding the best tech solutions at Canada Computers, honing my customer service and tech expertise for years.
 
 🌟 Fun Facts:
 My ThinkPad L14 is my trusty companion for coding marathons.
 I’m an advocate for creating inclusive workspaces and fostering teamwork.
 
 📫 Let's Connect!
-LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alinesec/)
+LinkedIn: [![LinkedIn](![image](https://github.com/user-attachments/assets/4315fd30-020f-481b-a2d4-49584d46a88f)
+)](https://www.linkedin.com/in/alinesec/)
 Email: sec.aline99@gmail.com
 
 Feel free to reach out for collaborations, questions, or a quick chat about engineering, culture, or life in general! 😊
