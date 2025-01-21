@@ -24,8 +24,7 @@ My ThinkPad L14 is my trusty companion for coding marathons.
 I’m an advocate for creating inclusive workspaces and fostering teamwork.
 
 📫 Let's Connect!
-LinkedIn: [![LinkedIn](![image](https://github.com/user-attachments/assets/4315fd30-020f-481b-a2d4-49584d46a88f)
-)](https://www.linkedin.com/in/alinesec/)
+LinkedIn: [![LinkedIn](![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/alinesec/)
 Email: sec.aline99@gmail.com
 
 Feel free to reach out for collaborations, questions, or a quick chat about engineering, culture, or life in general! 😊
