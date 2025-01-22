@@ -1,7 +1,9 @@
 ## Hi there! I'm Aline! 👋
 
 🚀 **About Me**:  
-I'm a first-year Computer Engineering student at Concordia University, passionate about software testing, web development, and debugging. Based in vibrant Montreal, I work part-time at Canada Computers while juggling academic and personal projects.
+I'm a first-year Computer Engineering student at Concordia University, passionate about software testing, web development, and debugging. Based in vibrant Montreal, I work part-time at Canada Computers while juggling academic and personal projects.  
+
+💬 I am fluent in **French**, **English**, **Vietnamese,** and **Spanish**, allowing me to work seamlessly in multilingual environments.  
 
 ---
 
