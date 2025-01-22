@@ -25,12 +25,15 @@ I'm a first-year Computer Engineering student at Concordia University, passionat
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)  
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
-- **Software Development**: Debugging, testing, and building efficient systems
+- **Software Development**: Debugging, testing, and building efficient systems.
 
 ---
 
 🛠️ **Project Management**:  
-Team collaboration, agile methodologies
+- Team collaboration and task prioritization  
+- Applying Agile methodologies (e.g., Scrum, Kanban)  
+- Coordinating workflows to meet deadlines  
+- Communicating effectively to align team goals
 
 📚 **Current Learning Goals**:  
 - Mastering advanced concepts in C++  
@@ -48,10 +51,12 @@ Assisted clients in finding the best tech solutions at Canada Computers, honing 
 
 ---
 
-📫 **Let's Connect**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinesec/)  
+📫 **Let's Connect**:
 
-📧 **Email**: sec.aline99@gmail.com  
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinesec/)  
+✉️ [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sec.aline99@gmail.com)  
+
+🌟 *Feel free to connect for collaborations, questions, or just to chat!* 😊
 
 
 <!--
