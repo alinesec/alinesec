@@ -59,9 +59,10 @@ Assisted clients in finding the best tech solutions at Canada Computers, honing 
 
 🌟 *Feel free to connect for collaborations, questions, or just to chat!* 😊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinesec&theme=tokyonight&count_private=true)](https://github.com/alinesec/github-readme-stats)
 <!--
 **alinesec/alinesec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinesec&theme=tokyonight&count_private=true)](https://github.com/alinesec/github-readme-stats)
 
 Here are some ideas to get you started:
 
