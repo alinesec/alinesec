@@ -58,7 +58,7 @@ Assisted clients in finding the best tech solutions at Canada Computers, honing 
 ✉️ [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sec.aline99@gmail.com)  
 
 🌟 *Feel free to connect for collaborations, questions, or just to chat!* 😊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinesec&langs_count=10)](https://github.com/alinesec/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinesec&theme=tokyonight)(https://github.com/alinesec/github-readme-stats)
 <!--
 **alinesec/alinesec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
